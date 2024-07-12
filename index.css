@@ -1,0 +1,47 @@
+.notFollowing{
+
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #EEEEEE;
+    transition: all 1s;
+}
+.notFollowing:hover{
+
+   cursor: pointer;
+   transform: scale(1.05);
+   color: #eeeeee84;
+}
+
+body{
+
+
+    background-color: #222831;
+}
+
+.button{
+
+    font-size: 1.2rem;
+    background-color: #76ABAE;
+    color: #322C2B;
+    border: none;
+    border-radius: 5px;
+    transition: all 1s;
+
+}
+.button:hover{
+
+    cursor: pointer;
+    transform: scale(1.1);
+    background-color: #677d7e;
+   
+ }
+
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+    color: white;
+
+
+
+}
